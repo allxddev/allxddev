@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @allxddev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# :bird: AllxdDev Github
 
-<!---
-allxddev/allxddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[ Telegram ](https://t.me/allxddev)
+[ WhatsApp ](https://wa.me/6285664731916)
+Email mc.all.lamsel@gmail.com
